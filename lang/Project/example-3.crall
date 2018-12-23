@@ -1,0 +1,5 @@
+dimension: 20x10
+start: (0,0)
+goal: (0,5)
+wall: (0,2),(3,2)
+teleporter: (13,5),(3,2)

@@ -1,0 +1,4 @@
+dimension: 5x5
+start: (2,0)
+goal: (2,3)
+trap: (2,2),100

@@ -1,0 +1,8 @@
+dimension: 15x10
+start: (1,0)
+wall: (14,8)
+wall: (4,0),(4,6)
+wall: (0,8),(12,8)
+goal: (0,9)
+trap: (4,7),20
+teleporter: (0,7),(13,7)

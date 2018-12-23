@@ -1,0 +1,16 @@
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/bin/Debug/netcoreapp2.1/ProjectParseTest.deps.json
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/bin/Debug/netcoreapp2.1/ProjectParseTest.runtimeconfig.json
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/bin/Debug/netcoreapp2.1/ProjectParseTest.runtimeconfig.dev.json
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/bin/Debug/netcoreapp2.1/ProjectParseTest.dll
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/bin/Debug/netcoreapp2.1/ProjectParseTest.pdb
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/bin/Debug/netcoreapp2.1/Final.dll
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/bin/Debug/netcoreapp2.1/Final.pdb
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/obj/Debug/netcoreapp2.1/ProjectParseTest.fsprojAssemblyReference.cache
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/obj/Debug/netcoreapp2.1/ProjectParseTest.AssemblyInfoInputs.cache
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/obj/Debug/netcoreapp2.1/ProjectParseTest.AssemblyInfo.fs
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/obj/Debug/netcoreapp2.1/ProjectParseTest.fsproj.CopyComplete
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/obj/Debug/netcoreapp2.1/ProjectParseTest.dll
+/home/cs-students/20dah2/cs334hw9-hartmandietrich-yoakiyama/lang/ProjectParseTest/obj/Debug/netcoreapp2.1/ProjectParseTest.pdb

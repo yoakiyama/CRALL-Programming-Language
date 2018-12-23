@@ -1,0 +1,10 @@
+/Users/yoakiyama/Desktop/Williams_College/Junior/CS334/lang/project/bin/Debug/netcoreapp2.1/Final.deps.json
+/Users/yoakiyama/Desktop/Williams_College/Junior/CS334/lang/project/bin/Debug/netcoreapp2.1/Final.runtimeconfig.json
+/Users/yoakiyama/Desktop/Williams_College/Junior/CS334/lang/project/bin/Debug/netcoreapp2.1/Final.runtimeconfig.dev.json
+/Users/yoakiyama/Desktop/Williams_College/Junior/CS334/lang/project/bin/Debug/netcoreapp2.1/Final.dll
+/Users/yoakiyama/Desktop/Williams_College/Junior/CS334/lang/project/bin/Debug/netcoreapp2.1/Final.pdb
+/Users/yoakiyama/Desktop/Williams_College/Junior/CS334/lang/project/obj/Debug/netcoreapp2.1/Final.fsprojAssemblyReference.cache
+/Users/yoakiyama/Desktop/Williams_College/Junior/CS334/lang/project/obj/Debug/netcoreapp2.1/Final.AssemblyInfoInputs.cache
+/Users/yoakiyama/Desktop/Williams_College/Junior/CS334/lang/project/obj/Debug/netcoreapp2.1/Final.AssemblyInfo.fs
+/Users/yoakiyama/Desktop/Williams_College/Junior/CS334/lang/project/obj/Debug/netcoreapp2.1/Final.dll
+/Users/yoakiyama/Desktop/Williams_College/Junior/CS334/lang/project/obj/Debug/netcoreapp2.1/Final.pdb
